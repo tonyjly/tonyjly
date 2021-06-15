@@ -2,7 +2,17 @@
 ---
 
 **I'm currently a Software Engineer based in Seattle.**
+
 I'm also a former Pharmacist and cycling enthusiast.
+
+- 🏢 I'm currently looking for work as a software engineer
+- 🌱 I'm learning about and studying: **Open Source, React, Containerization**
+- 📫 Reach me asap: tonyjly@gmail.com
+- 💜 Interests: electronic music, cycling
+- 😄 Passionate about automating boring stuff, optimizing medication safety
+
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/tonyjly/">LinkedIn</a>
 
 <!--
 **tonyjly/tonyjly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
