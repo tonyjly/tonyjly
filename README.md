@@ -1,5 +1,4 @@
 ### Hi, I'm Tony 👋
-
 ---
 
 **I'm currently a Software Engineer based in Seattle.**
