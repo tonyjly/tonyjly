@@ -1,6 +1,9 @@
-### Hi there, I'm Tony! 👋
+### Hi, I'm Tony 👋
 
-I am a Software Engineer, Pharmacist, and road cycling enthusiast.
+---
+
+**I'm currently a Software Engineer based in Seattle.**
+I'm also a former Pharmacist and cycling enthusiast.
 
 <!--
 **tonyjly/tonyjly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
