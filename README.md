@@ -1,5 +1,7 @@
-### Hi, I'm Tony 👋
----
+<!-- ### Hi, I'm Tony 👋
+--- -->
+
+![Hero Image](/assets/cover.png)
 
 **I'm currently a Software Engineer based in Seattle.**
 
