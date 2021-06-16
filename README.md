@@ -2,7 +2,7 @@
 --- -->
 
 ![Hero Image](/assets/cover.png)
-![[LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](link-LinkedIn)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](link-LinkedIn)
 
 **I'm currently a Software Engineer based in Seattle.**
 
