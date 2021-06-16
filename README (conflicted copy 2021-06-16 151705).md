@@ -2,7 +2,7 @@
 --- -->
 
 ![Hero Image](/assets/cover.png)
-![[LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](link-LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonyjly)
 
 **I'm currently a Software Engineer based in Seattle.**
 
@@ -15,7 +15,7 @@ I'm also a former Pharmacist and cycling enthusiast.
 - 😄 Passionate about automating boring stuff, optimizing medication safety
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href=link-LinkedIn>LinkedIn</a>
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/tonyjly/">LinkedIn</a>
 
 <!--
 **tonyjly/tonyjly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,5 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[link-LinkedIn]: https://www.linkedin.com/in/tonyjly/
