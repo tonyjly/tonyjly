@@ -2,6 +2,7 @@
 --- -->
 
 ![Hero Image](/assets/cover.png)
+![[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonyjly/)
 
 **I'm currently a Software Engineer based in Seattle.**
 
