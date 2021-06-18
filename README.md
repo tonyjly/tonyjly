@@ -1,14 +1,14 @@
 ![Hero Image](/assets/cover.png)
 
-
 **I'm currently a Software Engineer based in Seattle.**
 
 I'm also a former Pharmacist and cycling enthusiast.
 
-- 🏢 I'm currently looking for work as a software engineer
-- 🌱 I'm learning about and studying: **Open Source, React, Containerization**
+- 🏢 I'm currently networking for **opportunities** and **mentorship**
+- 🔭 I’m currently working on **an open-source password manager**
+- 🌱 I'm learning about and studying **open-source projects, React Native, containerization**
 - 💜 Interests: electronic music, cycling
-- 😄 Passionate about automating boring stuff, optimizing medication safety
+- 😄 Passions: automating boring stuff, optimizing applications, medication safety
 
 
 #### Connect with me:
@@ -22,7 +22,6 @@ I'm also a former Pharmacist and cycling enthusiast.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
