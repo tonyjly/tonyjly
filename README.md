@@ -7,8 +7,8 @@ I'm also a former Pharmacist and cycling enthusiast.
 - 🏢 I'm currently networking for **opportunities** and **mentorship**
 - 🔭 I’m currently working on **an open-source password manager**
 - 🌱 I'm learning about and studying **open-source projects, React Native, containerization**
-- 💜 Interests: electronic music, cycling
-- 😄 Passions: automating boring stuff, optimizing applications, medication safety
+- 💜 I'm interested in **electronic music** and **cycling**
+- 😄 I'm passionate about **automating boring stuff**, **optimizing applications**, and **medication safety**
 
 
 #### Connect with me:
