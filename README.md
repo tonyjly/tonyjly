@@ -5,7 +5,7 @@
 
 **I'm currently a Software Engineer based in Seattle.**
 
-I'm also a former Pharmacist and cycling enthusiast.
+I'm also a pharmacist and cycling enthusiast.
 
 - 🏢 I'm currently looking for work as a software engineer
 - 🌱 I'm learning about and studying: **Open Source, React, Containerization**
