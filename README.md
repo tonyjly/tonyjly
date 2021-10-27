@@ -1,12 +1,12 @@
 ![Hero Image](/assets/cover.png)
 
-**I'm currently a Software Engineer based in Seattle.**
+**I'm currently an AI/ML and Data Engineer based in Seattle.**
 
 I'm also a pharmacist and cycling enthusiast.
 
-- 🏢 I'm currently networking for **opportunities** and **mentorship**
-- 🔭 I’m currently working on **an open-source password manager**
-- 🌱 I'm learning about and studying **open-source projects, React Native, containerization**
+- 🏢 I'm currently networking for **mentorship**
+- 🔭 I’m currently working on **data pipeline automation**
+- 🌱 I'm learning about and studying the intricacies of **prescription drug pricing** and **cloud-based data engineering and data analytics**
 - 💜 I'm interested in **electronic music** and **cycling**
 - 😄 I'm passionate about **automating boring stuff**, **optimizing applications**, and **medication safety**
 
