@@ -1,6 +1,6 @@
 ![Hero Image](/assets/cover.png)
 
-**I am currently an software engineer based in Seattle.**
+**I am currently a software engineer based in Seattle.**
 
 I'm also a pharmacist and cycling enthusiast.
 
